@@ -6,4 +6,4 @@ BUILDDIR="$ROOTDIR/build"
 
 # Расположите свою команду на следующей строке
 
-gcc -S $SRCDIR/main.c -o $BUILDDIR/main.o
+gcc -S $SRCDIR/main.c -o $BUILDDIR/main.s
